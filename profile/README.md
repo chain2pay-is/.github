@@ -11,13 +11,18 @@ This is the official GitHub account of Chain2Pay. The service is operated by Ist
 | Pricing | https://chain2pay.is/pricing |
 | Company and how it works | https://chain2pay.is/is-chain2pay-legit |
 | Merchant dashboard | https://dashboard.chain2pay.is |
+| Telegram bot | https://bot.chain2pay.is (the official bot is @chain2paygatebot) |
+| White label program | https://whitelabel.chain2pay.is |
 | Affiliate program | https://affiliation.chain2pay.is |
 | Official domains | https://chain2pay.is/official-domains |
 | Support | support@chain2pay.is |
 
 ## Integrations
 
-REST API with a sandbox, WooCommerce plugin, WHMCS module and white-label checkout. Plugins are distributed through the merchant dashboard.
+- REST API with a sandbox.
+- Plugins for WooCommerce, WHMCS, PrestaShop, OpenCart, Easy Digital Downloads, FOSSBilling and Paymenter. Plugins are distributed through the merchant dashboard.
+- Telegram bot: invoices, products delivered automatically, paid channels and groups, and your shop on your own bot.
+- White label program: run the gateway under your own brand and domain with one API key.
 
 ## Fees
 
